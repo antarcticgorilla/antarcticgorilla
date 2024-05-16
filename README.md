@@ -1,1 +1,1 @@
-🌱 I’m currently learning Python. Wish me luck.
+🌱 Started learning to code. Wish me luck.
